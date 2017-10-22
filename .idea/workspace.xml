@@ -63,35 +63,7 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="EmployeeDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/nelson/powermock/construction/dao/EmployeeDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="e#240#241#0" expanded="true" />
-                <element signature="e#297#298#0" expanded="true" />
-                <element signature="e#350#351#0" expanded="true" />
-                <element signature="e#407#408#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EmployeeServiceTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/nelson/powermock/construction/service/EmployeeServiceTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="24" column="53" lean-forward="false" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -417,6 +389,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/nelson/powermock/construction/dao/EmployeeDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/nelson/powermock/construction/service/EmployeeService.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/nelson/powermock/construction/service/EmployeeServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nelson/powermock/matcher/dao/EmployeeDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nelson/powermock/matcher/controller/EmployeeController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nelson/powermock/matcher/service/EmployeeService.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/nelson/powermock/matcher/controller/EmployeeControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nelson/powermock/answer/service/EmployeeService.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/nelson/powermock/answer/controller/EmployeeControllerTest.java" />
       </list>
     </option>
   </component>
@@ -501,41 +479,6 @@
               <item name="nelson" type="462c0819:PsiDirectoryNode" />
               <item name="powermock" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="PowerMockDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PowerMockDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="nelson" type="462c0819:PsiDirectoryNode" />
-              <item name="powermock" type="462c0819:PsiDirectoryNode" />
-              <item name="construction" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PowerMockDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PowerMockDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="nelson" type="462c0819:PsiDirectoryNode" />
-              <item name="powermock" type="462c0819:PsiDirectoryNode" />
-              <item name="construction" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PowerMockDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PowerMockDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="nelson" type="462c0819:PsiDirectoryNode" />
-              <item name="powermock" type="462c0819:PsiDirectoryNode" />
-              <item name="construction" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -556,11 +499,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.nelson.powermock.answer.controller" />
+      <recent name="com.nelson.powermock.matcher.controller" />
       <recent name="com.nelson.powermock.construction.service" />
       <recent name="com.nelson.powermock.mockfinal.service" />
       <recent name="com.nelson.powermock.verify.service" />
-      <recent name="com.nelson.powermock.mockstatic.service" />
-      <recent name="com.nelson.powermock.local.service.service" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.nelson.powermock.mockstatic" />
@@ -571,11 +514,11 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/nelson/powermock/answer" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/nelson/powermock/matcher" />
       <recent name="$PROJECT_DIR$/src/main/java/com/nelson/powermock/construction" />
       <recent name="$PROJECT_DIR$/src/main/java/com/nelson/powermock/mockfinal" />
       <recent name="$PROJECT_DIR$/src/main/java/com/nelson/powermock/verify" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/nelson/powermock/mockstatic" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/nelson/powermock/static" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -590,7 +533,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.EmployeeServiceTest.testCreateEmployee (1)">
+  <component name="RunManager" selected="JUnit.EmployeeControllerTest.testGetEmail">
+    <configuration name="EmployeeControllerTest.testGetEmail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.nelson.powermock.matcher.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="PowerMockDemo_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.nelson.powermock.matcher.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.nelson.powermock.matcher.controller.EmployeeControllerTest" />
+      <option name="METHOD_NAME" value="testGetEmail" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration name="EmployeeServiceTest.testCreateEmployee (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -654,31 +622,6 @@
       <option name="PACKAGE_NAME" value="com.nelson.powermock.mockfinal.service" />
       <option name="MAIN_CLASS_NAME" value="com.nelson.powermock.mockfinal.service.EmployeeServiceTest" />
       <option name="METHOD_NAME" value="testCreateEmployeeWithPowerMockito" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="EmployeeServiceTest.testSaveOrUpdateCountLessZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.nelson.powermock.verify.service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="com.nelson_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.nelson.powermock.verify.service" />
-      <option name="MAIN_CLASS_NAME" value="com.nelson.powermock.verify.service.EmployeeServiceTest" />
-      <option name="METHOD_NAME" value="testSaveOrUpdateCountLessZero" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -809,19 +752,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.EmployeeServiceTest.testSaveOrUpdateCountLessZero" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.EmployeeServiceTest.testSaveOrUpdateCountMoreThanZero" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.EmployeeServiceTest.testCreateEmployee" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.EmployeeServiceTest.testCreateEmployeeWithPowerMockito" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.EmployeeServiceTest.testCreateEmployee (1)" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.EmployeeServiceTest.testSaveOrUpdateCountMoreThanZero" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.EmployeeServiceTest.testCreateEmployee" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.EmployeeServiceTest.testCreateEmployeeWithPowerMockito" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.EmployeeServiceTest.testCreateEmployee (1)" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.EmployeeControllerTest.testGetEmail" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.EmployeeServiceTest.testCreateEmployee (1)" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.EmployeeServiceTest.testCreateEmployeeWithPowerMockito" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.EmployeeServiceTest.testCreateEmployee" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.EmployeeServiceTest.testSaveOrUpdateCountMoreThanZero" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.EmployeeServiceTest.testSaveOrUpdateCountLessZero" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.EmployeeControllerTest.testGetEmail" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.EmployeeServiceTest.testCreateEmployee (1)" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.EmployeeServiceTest.testCreateEmployeeWithPowerMockito" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.EmployeeServiceTest.testCreateEmployee" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.EmployeeServiceTest.testSaveOrUpdateCountMoreThanZero" />
       </list>
     </recent_temporary>
   </component>
@@ -837,16 +780,16 @@
       <updated>1508656138000</updated>
       <workItem from="1508656142351" duration="5923000" />
       <workItem from="1508662205995" duration="71000" />
-      <workItem from="1508662293607" duration="857000" />
+      <workItem from="1508662293607" duration="1581000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EmployeeServiceTest_testCreateEmployeeWithPowerMockito - 2017.10.22 at 16h 44m 52s.xml">
-      <configuration name="EmployeeServiceTest.testCreateEmployeeWithPowerMockito" configurationId="JUnit" />
+    <history-entry file="EmployeeControllerTest_testGetEmail - 2017.10.22 at 17h 20m 35s.xml">
+      <configuration name="EmployeeControllerTest.testGetEmail" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EmployeeServiceTest_testCreateEmployeeWithPowerMockito - 2017.10.22 at 16h 45m 40s.xml">
-      <configuration name="EmployeeServiceTest.testCreateEmployeeWithPowerMockito" configurationId="JUnit" />
+    <history-entry file="EmployeeControllerTest_testGetEmail - 2017.10.22 at 17h 21m 56s.xml">
+      <configuration name="EmployeeControllerTest.testGetEmail" configurationId="JUnit" />
     </history-entry>
     <history-entry file="EmployeeServiceTest_testCreateEmployee_(1) - 2017.10.22 at 17h 10m 02s.xml">
       <configuration name="EmployeeServiceTest.testCreateEmployee (1)" configurationId="JUnit" />
@@ -874,11 +817,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6851000" />
+    <option name="totallyTimeSpent" value="7575000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -888,12 +830,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21561605" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21561605" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295129" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295129" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1136,6 +1078,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/nelson/powermock/construction/service/EmployeeServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/nelson/powermock/construction/dao/EmployeeDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -1149,13 +1101,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/nelson/powermock/construction/service/EmployeeServiceTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nelson/powermock/matcher/dao/EmployeeDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="24" column="53" lean-forward="false" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/nelson/powermock/matcher/controller/EmployeeControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="36" column="40" lean-forward="false" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#657#1042#0" expanded="true" />
+            <element signature="e#1041#1042#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nelson/powermock/matcher/controller/EmployeeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="45" lean-forward="true" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nelson/powermock/matcher/service/EmployeeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nelson/powermock/answer/service/EmployeeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/nelson/powermock/answer/controller/EmployeeControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nelson/powermock/answer/controller/EmployeeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
